@@ -142,12 +142,12 @@
 <p>
 <form>
 <label for="youxiang">请输入邮箱地址：</label>
-<input type="text" name="email" id="youxiang" value="这是一个文本输入框"/><br/>
+<input type="text" name="email" id="youxiang" placeholder="这是一个文本输入框"/><br/>
 <p>邮箱地址请按要求格式输入</p><br/>
 <label for="mima">请输入密码:</label>
-<input type="password" name="pass" id="mima" />
+<input type="password" name="pass" id="mima" placeholder="这是一个文本输入框" />
 <label for="tmima">请重复输入密码：</label>
-<input type="password" name="pass" id="tmima" /><br/>
+<input type="password" name="pass" id="tmima" placeholder="这是一个文本输入框" /><br/>
 <p>密码请为6-16位英文数字</p>
 </form>
 </p>
